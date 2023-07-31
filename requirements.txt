@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+asyncpg
+tokenizers
+torch
+transformers==4.30.2
+torchaudio
+torchvision
+python-multipart
